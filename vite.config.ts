@@ -19,8 +19,3 @@ export default defineConfig(({ mode }) => ({
     },
   },
 }));
-
-export default defineConfig({
-  base: '/reneryassessoria-contabil/', // Substitua pelo nome do seu projeto
-  plugins: [react()],
-});
